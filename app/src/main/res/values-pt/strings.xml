@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="Welcome" translatable="false">Bem-vindo à app</string>
+    <string name="WriteHere">Escrever aqui</string>
+</resources>

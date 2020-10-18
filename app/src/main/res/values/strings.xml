@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="Welcome" translatable="false">Welcome to the app</string>
+    <string name="WriteHere">Write Here</string>
+</resources>
